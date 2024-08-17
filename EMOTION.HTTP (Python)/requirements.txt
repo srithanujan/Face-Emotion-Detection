@@ -1,0 +1,14 @@
+uvicorn
+face_recognition
+fastapi
+opencv-python
+opencv-python-headless
+scikit-image
+numpy
+google-cloud-storage
+google-auth
+pyyaml
+librosa
+tensorflow
+Keras-Preprocessing
+-e .
